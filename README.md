@@ -1,12 +1,6 @@
-# Getting Started with Create React App
+# Portfolio Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Live at :
+## Watch live at:
 https://portfolio-shlomi-y-dt.netlify.app
