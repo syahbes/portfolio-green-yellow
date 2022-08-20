@@ -6,7 +6,7 @@ using React, Router, API's and animations
 
 Runs the app in the development mode.\
 Watch live at [Netlify](https://portfolio-shlomi-y-dt.netlify.app)
-.
-.
+<br/><br/>
+
 https://portfolio-shlomi-y-dt.netlify.app
 
