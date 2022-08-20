@@ -1,0 +1,56 @@
+{
+    "portfolio": [
+        {
+            "cover": "https://i.postimg.cc/02rr1NMX/image.png",
+            "title": "Emoji Match",
+            "description": "Memory game with React - fun and responsive",
+            "url": "https://memorygame-eosin.vercel.app/",
+            "id": "001"
+        },
+        {
+            "cover": "https://i.postimg.cc/rF3RYTHX/image.png",
+            "title": "Multi Crypto Wallet",
+            "description": "Made on demand to view multi wallets ETH balance, with API call",
+            "url": "https://62eac57b9df3d70263199dea--multi-wallets-dashboard.netlify.app",
+            "id": "002"
+        },
+        
+        {
+            "cover": "https://i.postimg.cc/WpXHPRXW/image.png",
+            "title": "To do list",
+            "description": "To-do app with Firebase API as data store",
+            "url": "https://react-todo-simple-firebase.vercel.app/",
+            "id": "003"
+        },
+        {
+            "cover": "https://i.postimg.cc/gjNY3cbX/fullView.png",
+            "title": "Shopping Cart",
+            "description": "Add / Remove from Cart using Redux toolkit , Firebase and MUI",
+            "url": "https://redux-cart-nine.vercel.app/",
+            "id": "004"
+        },
+        
+        {
+            "cover": "https://i.postimg.cc/br1Ct4Yp/image.png",
+            "title": "Cryptoverse",
+            "description": "Mini site using Rapid API Redux, React, Router - responsive",
+            "url": "https://crypto-esc-react.netlify.app/",
+            "id": "005"   
+        },
+        {
+            "cover": "https://i.postimg.cc/Pxq2QZJQ/image.png",
+            "title": "Weather App",
+            "description": "React app with Rapid API Material UI - responsive",
+            "url": "https://weather-app-react-kyw4nwchm-syahbes.vercel.app/",
+            "id": "006"   
+        },
+        {
+            "cover": "https://i.postimg.cc/sxCqLnBz/image.png",
+            "title": "25+5 Pomodoro Timer",
+            "description": "Final project of FCC, using react",
+            "url": "https://pomadoro-25-5-clock.vercel.app/",
+            "id": "007"
+        }
+    ]
+
+}
