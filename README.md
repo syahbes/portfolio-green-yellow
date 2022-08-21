@@ -10,3 +10,4 @@ Watch live at [Netlify](https://portfolio-shlomi-y-dt.netlify.app)
 
 https://portfolio-shlomi-y-dt.netlify.app
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syahbes)](https://github.com/anuraghazra/github-readme-stats)
